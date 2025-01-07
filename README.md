@@ -1,3 +1,3 @@
 Site de Desenvolvimento para Hamburgueria
-Elaborador Códigos Html e CSS
+Elaborado Códigos Html e CSS
 Web-Design - Photoshop
